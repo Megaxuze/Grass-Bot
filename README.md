@@ -6,8 +6,7 @@
 #### Python3 module Installation
 - Install from requirements.txt
 ```pip install -r requirements.txt```
-### REGISTER: https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk ( Please use this link instead! xD )
-## HOW TO USE
+### REGISTER:https://app.getgrass.io/register/?referralCode=lgTyY7NYPTi83oT
 #### How to get your grass userid
 - Login to https://app.getgrass.io
 - Press f12 go to console, then type ```allow pasting``` insert to console
